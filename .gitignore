@@ -1,7 +1,7 @@
-# MA1905 - only keep Unit 1 and the course PDF
+# MA1905 - only keep Unit folders and the course PDF
 MA1905 - Problem Solving for IT/*
 
-!MA1905 - Problem Solving for IT/Unit 1/
-!MA1905 - Problem Solving for IT/Unit 1/**
+!MA1905 - Problem Solving for IT/Unit */
+!MA1905 - Problem Solving for IT/Unit /**
 
 !MA1905 - Problem Solving for IT/MA1905.pdf
